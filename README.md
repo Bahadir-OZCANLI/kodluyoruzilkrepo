@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 Kodluyoruz eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Ekran görüntüsü.](C://Users//Lenovo//Pictures//kodluyoruz.png)
+![Ekran görüntüsü.](https://github.com/Bahadir-OZCANLI/kodluyoruzilkrepo/blob/main/kodluyoruz.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
